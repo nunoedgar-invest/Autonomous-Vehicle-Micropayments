@@ -1,0 +1,1 @@
+# Dependency directories node_modules/ # Rust build artifacts target/ # Test output test-ledger/ # IDE files .vscode/ .idea/ # Environment files .env # Other generated files *.lock *.log
